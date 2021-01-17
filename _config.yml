@@ -22,7 +22,7 @@ subtitle                 : "Feat. 프로그래머스 자율주행 스쿨" # site
 name                     : "Cheolhee Lee"
 description              : "공부 기록장"
 url                      : "churry75.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/K-Digital_Programmers" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
