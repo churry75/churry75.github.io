@@ -101,10 +101,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:cheolhee75@gmail.com
+      url: mailto:cheolhee75@gmail.com
     - label: "Youtube"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.youtube.com/channel/UCJnEpp9_f1Fw4pGOylhaErg/featured"
+      url: "https://www.youtube.com/channel/UCJnEpp9_f1Fw4pGOylhaErg/featured"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/churry75"
+      url: "https://github.com/churry75"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
