@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://churry75.github.io/sitemap.xml
