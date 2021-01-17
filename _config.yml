@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR" # "en-US"
+locale                   : "en-US"
 title                    : "자율주행 개발자가 되기 위한 기록"
 title_separator          : "-"
 subtitle                 : "Feat. 프로그래머스 자율주행 스쿨" # site tagline that appears below site title in masthead
@@ -94,26 +94,26 @@ analytics:
 # Site Author
 author:
   name             : "Cheolhee Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/my_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, South Korea"
-  email            : "cheolhee75@gmail.com"
+  email            : # "cheolhee75@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:cheolhee75@gmail.com"
+       url: mailto:cheolhee75@gmail.com
     - label: "Youtube"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.youtube.com/channel/UCJnEpp9_f1Fw4pGOylhaErg/featured"
+       url: "https://www.youtube.com/channel/UCJnEpp9_f1Fw4pGOylhaErg/featured"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "https://github.com/churry75"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/"
+       url: "https://github.com/churry75"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
