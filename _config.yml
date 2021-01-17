@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:cheolhee75@gmail.com
+      # url: mailto:cheolhee75@gmail.com
     - label: "Youtube"
       icon: "fas fa-fw fa-link"
        url: "https://www.youtube.com/channel/UCJnEpp9_f1Fw4pGOylhaErg/featured"
