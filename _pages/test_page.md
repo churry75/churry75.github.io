@@ -1,6 +1,6 @@
 ---
 title: "이 블로그 설명서"
-permalink: /K-Digital_Programmers/
+permalink: /about/
 layout: single
 ---
 
