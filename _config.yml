@@ -97,9 +97,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, South Korea"
-  email            :
+  email            : "cheolhee75@gmail.com"
   links:
-    - label: "Email"
+    - label: "cheolhee75@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:cheolhee75@gmail.com"
     - label: "Youtube"
