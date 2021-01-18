@@ -1,9 +1,9 @@
 ---
 title: "프로그래머스 자율주행 스쿨 강의 정리"
-permalink: /categories/자율주행스쿨/
+permalink: /categories/자율주행스쿨강의/
 layout: category
 author_profile: true
-taxonomy: 자율주행스쿨
+taxonomy: 자율주행스쿨강의
 ---
 
 >이 페이지는 프로그래머스((주)그렙)에서 진행하는\
