@@ -5,7 +5,7 @@ main:
   - title: "TIL"
     url: /categories/TIL/
   - title: "코딩테스트 준비"
-    url: /categories/CodingTest/
+    url: /categories/코딩테스트/
   - title: "자율주행 스쿨 강의"
     url: /categories/자율주행스쿨강의/
   # - title: "Sample Collections"
