@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About me"
-    url: https://churry75.github.io/about/  # or /about/
+    url: /about/  # or /about/
   - title: "TIL"
     url: /categories/TIL/
   - title: "코딩테스트 준비"
-    url: /categories/CodingTest
+    url: /categories/CodingTest/
   - title: "자율주행 스쿨 강의"
-    url: /programmers_school/
+    url: /categories/자율주행스쿨강의/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
