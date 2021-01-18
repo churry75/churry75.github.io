@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Cheolhee Lee"
   avatar           : "/assets/images/my_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "자율주행 개발자가 되기를 꿈꾸는 청년"
   location         : "Seoul, South Korea"
   email            : # "cheolhee75@gmail.com"
   links:
