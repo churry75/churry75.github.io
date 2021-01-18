@@ -4,10 +4,10 @@ main:
     url: https://churry75.github.io/about/  # or /about/
   - title: "TIL"
     url: /categories/TIL/
+  - title: "코딩테스트 준비"
+    url: /categories/CodingTest
   - title: "자율주행 스쿨 강의"
     url: https://churry75.github.io/K-Digital_Programmers
-  - title: "코딩테스트 준비"
-    # url: /coding_test/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
