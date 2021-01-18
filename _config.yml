@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "자율주행 개발자가 되기 위한 기록"
+title                    : "자율주행 개발자 되기"
 title_separator          : "-"
 subtitle                 : "Feat. 프로그래머스 자율주행 스쿨" # site tagline that appears below site title in masthead
 name                     : "Cheolhee Lee"
