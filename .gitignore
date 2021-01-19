@@ -1,3 +1,5 @@
+.gitignore
+
 # Vim
 *~
 *.sw[p_]
@@ -27,3 +29,5 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+_posts/0_post_format.md
