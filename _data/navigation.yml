@@ -2,8 +2,6 @@
 main:
   - title: "Tags"
     url: /tags/  
-  - title: "Catergories"
-    url: /categories/  # or /about/
   - title: "TIL"
     url: /categories/TIL/
   - title: "코딩테스트 준비"
